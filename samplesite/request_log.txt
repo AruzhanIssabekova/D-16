@@ -1,0 +1,178 @@
+Request from 127.0.0.1 at /protected/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+
+Request from 127.0.0.1 at /protected/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+
+Request from 127.0.0.1 at /protected/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+
+Request from 127.0.0.1 at /protected/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+
+Method: GET
+Path: /my-view/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=kWCfIcTo0H1gt5A0cMEFdao16Edlx9jh'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=D8P4sD7Tkx6AksGZQPgU4wVhUOiLm4OC'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['NUxk87v1bwG9H7PDpPWzfrjXVnZjICFPgSceqAsKlTCzRpls5u2j9N44F17UUwjh'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=D8P4sD7Tkx6AksGZQPgU4wVhUOiLm4OC'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=nIsjbPOcZBB17ELbNx8tcIdT9voFd5xy'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['QThWJ0gEabT1rCaQm5NLx9I727cfIvWb3rz5KFUGZCkSo6LRZsL4zHLQ1sqKLqjz'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=nIsjbPOcZBB17ELbNx8tcIdT9voFd5xy'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=AofB8cpx4jCVASGUF3It19AbJHgO6wDJ'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['NyMLZbeE2EW64KbmzsXsWIATZVrWczHbdMRcXdt1WNoRusH64lvLNH0UysxA8VaK'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=AofB8cpx4jCVASGUF3It19AbJHgO6wDJ'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=owtRfssk85oBMwYlCKSjsEpemPrazfyH'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['UUiyNcDuUNPaUFztbClrXoFmyNmwBZTO8gBfSuVESI3Bw1nEDc3AfSUqKsDw04hl'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=owtRfssk85oBMwYlCKSjsEpemPrazfyH'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=NMAgScJn2fqYBpZ6CrTXuGFRqJWfgoRq'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['XzLdRv3UuSlAY3arY6hQgkpdUqB5mR02AbbjzxC7mXBopiZnqn0DAQUUaZnas5Hi'], 'username': ['fgfgh'], 'password': ['jhvjhhj']}>
+Headers: {'Content-Length': '116', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=NMAgScJn2fqYBpZ6CrTXuGFRqJWfgoRq'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['XzLdRv3UuSlAY3arY6hQgkpdUqB5mR02AbbjzxC7mXBopiZnqn0DAQUUaZnas5Hi'], 'username': ['fgfgh'], 'password': ['jhvjhhj']}>
+Headers: {'Content-Length': '116', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Origin': 'http://127.0.0.1:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=NMAgScJn2fqYBpZ6CrTXuGFRqJWfgoRq'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=NMAgScJn2fqYBpZ6CrTXuGFRqJWfgoRq'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['H9VSF0VcXGpfIiDED8PKRP2XOooZLQDwkLlYn2upPLF39xsA5pyxblxE4Xa4R4kM'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=NMAgScJn2fqYBpZ6CrTXuGFRqJWfgoRq'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=WuZ73D79oX4TLKI7vuU9IlHQTXfhnI90'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['eCjiWS3ANoWSiyK2FViLMBSOFJ4TfcgK0W8fPl0z1bQBT8iZ0f2KkMpuow90sKfA'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=WuZ73D79oX4TLKI7vuU9IlHQTXfhnI90'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=vwjHANhW4BQbg02VofS2fyobP2RJuZxv'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['Rmq4ZaSHIatoP9oJo3DEIZcrzj7t4i1ScIzBpNZtCB9pVZguC8lwNnqsebO2o7od'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=vwjHANhW4BQbg02VofS2fyobP2RJuZxv'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=s2tHWLacI1Ugsh2Ewkadux5fkNsKVYWI'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['yYoBhP4gf9Nm4jPPB6vl8X2J5eMdJnpAQQH83q4iN0xsmqHjXgvoskXOfR4Nubb8'], 'username': ['hjdhkjdshfk'], 'password': ['dsfjhsjdfh']}>
+Headers: {'Content-Length': '125', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=s2tHWLacI1Ugsh2Ewkadux5fkNsKVYWI'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['yYoBhP4gf9Nm4jPPB6vl8X2J5eMdJnpAQQH83q4iN0xsmqHjXgvoskXOfR4Nubb8'], 'username': ['hjdhkjdshfk'], 'password': ['dsfjhsjdfh']}>
+Headers: {'Content-Length': '125', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Origin': 'http://127.0.0.1:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=s2tHWLacI1Ugsh2Ewkadux5fkNsKVYWI'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=s2tHWLacI1Ugsh2Ewkadux5fkNsKVYWI'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['PEBsBzkKWF7f5gWNPrwq5D8KmWwjlrLM7wUZnakMuwRlnnOhbBwtp03PwzOT6fxk'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=s2tHWLacI1Ugsh2Ewkadux5fkNsKVYWI'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=tAzAaaNCsivLJeOOyPh4fHWDsCpkbGT2'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['otwwkyjhT5FfRvYa5m0RaX58rHjRO5BQHTVWkyWJbd0QqzCOt17LfuRBJ9y1PBkI'], 'username': ['admin'], 'password': ['admin']}>
+Headers: {'Content-Length': '114', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=tAzAaaNCsivLJeOOyPh4fHWDsCpkbGT2'}
+
+Method: GET
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {}>
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=nHm5qZPqi8rzoQO6nxLj89rQg5o2871K'}
+
+Method: POST
+Path: /login/
+GET parameters: <QueryDict: {}>
+POST parameters: <QueryDict: {'csrfmiddlewaretoken': ['b5aPsadngNvMPWNA7B7NS2DWBW3k4OZUoCmKIZSDoLMb3CrwkYIWQ1UCHRhc2LQu'], 'username': ['sfsdf'], 'password': ['sfsdfs']}>
+Headers: {'Content-Length': '115', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'Origin': 'http://127.0.0.1:8000', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/login/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'sessionid=huhtr23ywa49cqi2pemcy8fh2yunqvky; csrftoken=nHm5qZPqi8rzoQO6nxLj89rQg5o2871K'}
+
